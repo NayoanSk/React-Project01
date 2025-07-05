@@ -1,11 +1,12 @@
 import React from "react"
+import Root from "./componets/Root"
 
 
 function App() {
 
   return (
       <div>
-        <h2 className="text-red-600">This is from react project</h2>
+        <Root></Root>
       </div>
   )
 }
