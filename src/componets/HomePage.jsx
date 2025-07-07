@@ -5,7 +5,7 @@ import React from 'react';
 const HomePage = () => {
 
     return (
-        <div className='flex flex-col justify-center items-center h-[90vh] text-amber-300 text-center' 
+        <div className='flex flex-col justify-center items-center h-[90vh] text-amber-300 text-center uppercase font-bold' 
             style={{
                 backgroundImage: "url('src/AllImages/banner.jpg')",
                 backgroundSize: "cover",
